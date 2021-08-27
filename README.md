@@ -6,6 +6,9 @@ bienvenidos al perfil del estudiante 👨‍🏫 ✨ Miguel Hernandez ✨.
 
 *Estudiante de la carrera de ingenieria en sistema computacionales 
 
+*Formas de contacto
+[facebook](https://www.facebook.com/profile.php?id=100003670884310)
+
 |HORARIO|  LUNES                          |  MARTES                         |  MIERCOLES                  	  |  JUEVES                     	  |  VIERNES                     	  |
 |-------|:--:                          	  |:---:	                          |:--:	                            |:---:	                          | :--:                            |
 | 13:00 | Ingeneria de software         	| Ingeneria de software         	| Ingeneria de software         	| Ingeneria de software         	| Ingeneria de software         	| 
