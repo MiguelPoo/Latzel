@@ -5,6 +5,7 @@
 bienvenidos al perfil del estudiante 👨‍🏫 ✨ Miguel Hernandez ✨.
 
 *Estudiante de la carrera de ingenieria en sistema computacionales 
+
 *Futuro programador.
 
 *Formas de contacto
